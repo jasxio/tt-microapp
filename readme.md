@@ -13,7 +13,7 @@
 
 ## 安装 - install
 ```bash
-$ composer require 96qbhy/tt-microapp
+$ composer require jasxio/tt-microapp
 ```
 
 ## 使用 - usage
@@ -89,6 +89,3 @@ var_dump($app->payment->signPay($pay_param)); // 担保支付的请求签名算�
 var_dump($app->payment->signCallback($callback_param)); // 担保支付的回调签名算法，用于在支付回调、退款回调、分账回调进行数据校验的
 ```
 
-php吹水交流群请添加: 873213948
-https://github.com/qbhy/tt-microapp
-96qbhy@gmail.com
