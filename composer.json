@@ -1,11 +1,15 @@
 {
-    "name": "96qbhy/tt-microapp",
+    "name": "jasxio/tt-microapp",
     "description": "字节跳动小程序sdk",
     "license": "MIT",
     "authors": [
         {
             "name": "qbhy",
             "email": "96qbhy@gmail.com"
+        },
+        {
+            "name": "jasxio",
+            "email": "jasxioyang@gmail.com"
         }
     ],
     "require": {
